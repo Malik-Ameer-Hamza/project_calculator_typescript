@@ -1,6 +1,6 @@
 {
   "name": "piaic_proj_calculator",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "calculator_project.js",
   "type": "module",
