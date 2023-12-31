@@ -7,8 +7,13 @@ This project is a simple calculator that can perform basic arithmetic operations
 To install this project from npm, run the following command:
 
 
-npx piaic_proj_calculator
+npm install piaic_proj_calculator
 
+## Run on terminal
+
+To run this project in your terminal, run the follwoing command:
+
+npx piaic_proj_calculator
 
 ## Install from git
 To install this project from github, clone the repository and run the following commands:
