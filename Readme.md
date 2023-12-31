@@ -13,10 +13,10 @@ npx piaic_proj_calculator
 ## Install from git
 To install this project from github, clone the repository and run the following commands:
 
-git clone https://github.com/your-username/piaic_proj_calculator.git
-cd piaic_proj_calculator
-npm install
-tsc calc.ts
-node calc.js
+git clone https://github.com/your-username/piaic_proj_calculator.git \
+cd piaic_proj_calculator \
+npm install \
+tsc calc.ts \
+node calc.js \
 
 
