@@ -6,22 +6,25 @@ This project is a simple calculator that can perform basic arithmetic operations
 
 To install this project from npm, run the following command:
 
-
+```bash
 npm install piaic_proj_calculator
+```
 
 ## Run on terminal
 
 To run this project in your terminal, run the follwoing command:
 
-npx piaic_proj_calculator
+```bash
+npx ameer-calculator
+```
+
 
 ## Install from git
 To install this project from github, clone the repository and run the following commands:
 
-git clone https://github.com/your-username/piaic_proj_calculator.git \
+git clone https://github.com/Malik-Ameer-Hamza/project_calculator_typescript.git
 cd piaic_proj_calculator \
 npm install \
-tsc calc.ts \
-node calc.js \
+
 
 
