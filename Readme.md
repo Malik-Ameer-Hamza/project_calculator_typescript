@@ -22,9 +22,12 @@ npx ameer-calculator
 ## Install from git
 To install this project from github, clone the repository and run the following commands:
 
+```bash
 git clone https://github.com/Malik-Ameer-Hamza/project_calculator_typescript.git
+
 cd piaic_proj_calculator \
+
 npm install \
 
-
+```
 
