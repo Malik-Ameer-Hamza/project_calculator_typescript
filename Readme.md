@@ -24,10 +24,12 @@ To install this project from github, clone the repository and run the following 
 
 ```bash
 git clone https://github.com/Malik-Ameer-Hamza/project_calculator_typescript.git
-
+```
+```bash
 cd piaic_proj_calculator \
+```
 
+```bash
 npm install \
-
 ```
 
